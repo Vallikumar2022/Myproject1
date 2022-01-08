@@ -1,0 +1,197 @@
+body {
+  background-color: #f5f5f5;
+}
+hr {
+  height: 5px;
+  background-color: blue;
+  border-radius: 4px;
+  width: 100%;
+}
+.indeximg {
+  height: 300px;
+  width: 400px;
+}
+.place1 {
+  text-align: center;
+}
+.place2 {
+  text-align: Center;
+}
+.place3 {
+  margin: 10px;
+  border-radius: 40px;
+  background-image: linear-gradient(to right, #1a2980, #26d0ce);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+  font-family: Arial;
+  padding: 10px 30px;
+  color: white;
+}
+.tableindex th td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 850px;
+  text-align: center;
+}
+.tableindex th,
+.tableindex td {
+  border: 1px solid black;
+}
+.tableaccount {
+  border: 1px solid black;
+  width: 850px;
+  text-align: center;
+}
+.tableaccount th,
+.tableaccount td {
+  border: 1px solid black;
+}
+.tableaccount thead {
+  background-color: black;
+  color: white;
+}
+.text-center {
+  text-align: center;
+}
+.heading {
+  text-align: center;
+  font-size: 40px;
+}
+.button1 {
+  margin: 30px;
+  border-radius: 40px;
+  background-image: linear-gradient(to right, #1a2980, #26d0ce);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 30px;
+  font-family: Arial;
+  padding: 10px 50px;
+  color: whitesmoke;
+}
+.button2 {
+  margin: 40px;
+  padding: 12px 45px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 40px;
+  font-family: wildwest;
+  font-weight: 600;
+  background: linear-gradient(to left, #c33764, #19547b);
+  box-shadow: 1px 6px 2px 0 hsl(200, 2%, 75%);
+  color: white;
+}
+.button3 {
+  margin: 35px;
+  padding: 12px 30px;
+  border-radius: 0px;
+  outline: none;
+  border: none;
+  font-weight: 500;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: solid 1px rgb(179, 128, 20);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #182848;
+  font-size: 35px;
+  color: yellow;
+}
+.button4 {
+  margin: 20px 40px;
+  padding: 20px 40px;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #008cba;
+  border: solid 1px white;
+  box-shadow: 5px 0px 3px 1px rgb(142, 139, 154);
+  font-weight: 300;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  color: white;
+}
+.button5 {
+  margin: 30px;
+  margin-top: 0px;
+  border-radius: 40px;
+  background-color: white;
+  border: Solid 2px yellowgreen;
+  outline: none;
+  cursor: pointer;
+  font-size: 30px;
+  font-family: Arial;
+  padding: 10px 50px;
+  margin: 2px 70px;
+  color: black;
+}
+.button6 {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 9px 80px;
+  width: 100px;
+  cursor: pointer;
+}
+.button7 {
+  background: linear-gradient(to right, #ff512f, #dd2476);
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  color: white;
+  border: none;
+  padding: 15px 50px;
+  width: 200px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px 50px;
+  cursor: pointer;
+}
+.button8 {
+  background: linear-gradient(to left, #0052d4, #4364f7, rgb(111, 177, 252));
+  box-shadow: 0px 2px 1px 0px #0052d4;
+  border-top-right-radius: 35px;
+  color: white;
+  border: none;
+  padding: 15px 50px;
+  width: 200px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px 50px;
+  cursor: pointer;
+}
+.button9 {
+  background: linear-gradient(to right, #e52d27, #b31217);
+  border-radius: 10px;
+  color: white;
+  padding: 15px 26px;
+  text-align: center;
+  font-size: 18px;
+  margin: 9px 90px;
+  width: 150px;
+  border: none;
+  cursor: pointer;
+}
+.button10 {
+  background: linear-gradient(to right, #02aab0, #00cdac);
+  box-shadow: 2px 1px 1px 1px #aecdc7;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  color: white;
+  padding: 5px 23px;
+  font-size: 16px;
+  margin: 5px 380px;
+  cursor: pointer;
+  border: none;
+}
